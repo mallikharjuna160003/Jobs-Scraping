@@ -5,10 +5,10 @@ def main():
     #url = "https://m.timesjobs.com/mobile/jobs-search-result.html?txtKeywords=Python+developer&cboWorkExp1=-1&txtLocation="
     url = "https://m.timesjobs.com/mobile/jobs-search-result.html?txtKeywords=Devops%2C&cboWorkExp1=-1&txtLocation="
     cookies = {
-        "JSESSIONID": "D59DBCAA8626EC7BC6DFB428430D3345-n2.NAFJS03",
-        "MSESSIONID": "9F16AB41F07FF61CF06B34A47FC2297C-n2.TJMOBILEAPP04",
-        "ACEGI_SECURITY_HASHED_REMEMBER_ME_COOKIE": "c3Vua2FyYW1hbGxpa2hhcmp1bmE3OTc5OjE3NzY2NjMzNjEwNzQ6OTdlNjQwZTZmYWRhY2QxY2IzMGI1N2M0MzExMjhiZmE6X19QTFVTX19JalVpdUR5N1RiVnRmX19TTEFTSF9fNlRJOEZhUT09",
-        "FULLY_COOKIE_KEY": "c3Vua2FyYW1hbGxpa2hhcmp1bmE3OTc5OjE3NDUxMjkxNjEwNzQ6OGY1NGRjZDAxYmQyY2ExZTQzZmMzNzZjYzhkYzM0YWY6X19QTFVTX19JalVpdUR5N1RiVnRmX19TTEFTSF9fNlRJOEZhUT09",
+        "JSESSIONID": "",
+        "MSESSIONID": "",
+        "ACEGI_SECURITY_HASHED_REMEMBER_ME_COOKIE": "",
+        "FULLY_COOKIE_KEY": "",
         # You can include others if needed
     }
 
