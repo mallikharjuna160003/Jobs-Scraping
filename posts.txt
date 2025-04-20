@@ -1,0 +1,300 @@
+company_name: avenuespaymentsindiapvt.ltd
+skill set: git ubuntu devops infrastructure linux docker
+Location: Bengaluru/Bangalore
+Experience: 6-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-avenues-payments-india-pvt-ltd-bengaluru-bangalore-6-to-9-yrs-jobid-eSNOM24lSMpzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+company_name: PNRSoftwareSolutionsPrivateLimited
+skill set: github storage docker git devops linux shell scripting
+Location: Bengaluru/Bangalore
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-pnr-software-solutions-private-limited-bengaluru-bangalore-3-to-6-yrs-jobid-T9zBJVX8csdzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+company_name: ADROITLEARNINGANDMANPOWERPVTLTD
+skill set: cli orchestration perl scripting docker sql python scripting iam linux administration devops linux shell scripting
+Location: Hyderabad/Secunderabad,Pune,Bengaluru/Bangalore
+Experience: 4-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-adroit-learning-and-manpower-pvt-ltd-hyderabad-secunderabad-pune-bengaluru-bangalore-4-to-6-yrs-jobid-wXpx3J4sQ0VzpSvf__PLUS__uAgZw==&bc=+&sequence=3
+company_name: AreteCareers(OPC)PvtLtd
+skill set: building engineering monitoring pipeline
+Location: Bengaluru/Bangalore
+Experience: 4-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-arete-careers-opc-pvt-ltd-bengaluru-bangalore-4-to-10-yrs-jobid-N65H9EX0GB1zpSvf__PLUS__uAgZw==&bc=+&sequence=4
+company_name: Paytm
+skill set: cloud services ci / cd pipelines containerization ( docker ) scripting ( bash / python ) infrastructure automation devops maven brewing python scripting linux os
+Location: Bengaluru/Bangalore
+Experience: 3-5Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-bengaluru-bangalore-3-to-5-yrs-jobid-__SLASH__GqfmhOUVphzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+company_name: Paytm
+skill set: aws kubernetes docker ansible puppet terraform linux os configuration shell scripting python brewing python scripting devops maven infrastructure
+Location: 
+Experience: 6-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/paytm-devops-lead-devops-paytm-6-to-10-yrs-jobid-V9rWJlu0LtJzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+company_name: Paytm
+skill set: cloud services devops tools scripting languages ci / cd implementation infrastructure management maven docker brewing git python scripting linux os gradle
+Location: Noida/GreaterNoida
+Experience: 3-5Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-5-yrs-jobid-12HMSx00Zr1zpSvf__PLUS__uAgZw==&bc=+&sequence=7
+company_name: Paytm
+skill set: ci / cd pipeline management aws cloud experience scripting ( shell / bash / python ) containerization ( docker / kubernetes ) infrastructure automation ( ansible / terraform ) brewing python scripting devops linux os maven
+Location: Noida/GreaterNoida
+Experience: 6-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-paytm-noida-greater-noida-6-to-9-yrs-jobid-jv__SLASH__wLRcs5slzpSvf__PLUS__uAgZw==&bc=+&sequence=8
+company_name: Paytm
+skill set: immutable infrastructure knowledge cloud infrastructure proficiency ci / cd processes expertise automation tools experience docker & kubernetes familiarity brewing java devops linux python cloud services groovy
+Location: Noida/GreaterNoida
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-6-yrs-jobid-0HPJ2o3QUN9zpSvf__PLUS__uAgZw==&bc=+&sequence=9
+company_name: Paytm
+skill set: ci / cd tools cloud experience linux os configuration scripting languages automation tools expertise docker brewing git python scripting devops maven gradle infrastructure
+Location: Noida/GreaterNoida
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-6-yrs-jobid-mfZrdC73frhzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+company_name: Paytm
+skill set: aws devops management containerization with docker kubernetes implementation infrastructure as code team leadership & collaboration shell scripting cache solution delivery nosql fundamentals security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-392-paytm-noida-greater-noida-5-to-9-yrs-jobid-qKY4tgTqQ__SLASH__lzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+company_name: Paytm
+skill set: aws cloud management devops automation kubernetes expertise containerization ( docker ) infrastructure as code shell scripting cache solution delivery nosql fundamentals security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-391-paytm-noida-greater-noida-5-to-8-yrs-jobid-WBhERz__SLASH__RQTJzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+company_name: Paytm
+skill set: aws devops leadership cloud architecture design automation and scripting kubernetes management infrastructure as code shell scripting cache solution delivery nosql fundamentals docker security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-476-paytm-noida-greater-noida-5-to-8-yrs-jobid-RCCgl0VRXz1zpSvf__PLUS__uAgZw==&bc=+&sequence=13
+company_name: SacharGamingPvt.Ltd.
+skill set: python css git devops
+Location: Mumbai
+Experience: 1-4Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-sachar-gaming-pvt-ltd-mumbai-1-to-4-yrs-jobid-X__SLASH__azYT5SBtZzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+company_name: TechasoftPvtLtd
+skill set: python docker devops debugging
+Location: Bengaluru/Bangalore
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-techasoft-pvt-ltd-bengaluru-bangalore-3-to-6-yrs-jobid-0t7__SLASH__Vm1skx1zpSvf__PLUS__uAgZw==&bc=+&sequence=15
+company_name: spiderfocussolutions
+skill set: Jenkins Software Engineers DevOps
+Location: Bengaluru/Bangalore
+Experience: 5-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-spiderfocus-solutions-bengaluru-bangalore-5-to-10-yrs-jobid-c6N2iUm4Z3VzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+company_name: CONNECTING2WORK
+skill set: DevOps GitLab Arti factory Jenkins
+Location: Cochin/Kochi/Ernakulam
+Experience: 0-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-developer-connecting-2-work-cochin-kochi-ernakulam-0-to-3-yrs-jobid-FK344lU1IkJzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+company_name: EHookSystems
+skill set: python svn git devops clearcase
+Location: Delhi
+Experience: 2-7Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-e-hook-systems-delhi-2-to-7-yrs-jobid-kkqm5qAEqMxzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+company_name: hashrootlimited
+skill set: python maven ruby docker devops linux openstack
+Location: Cochin/Kochi/Ernakulam
+Experience: 1-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-hashroot-limited-cochin-kochi-ernakulam-1-to-8-yrs-jobid-atqVqTYJikpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+company_name: cloudxlab
+skill set: windows security delivery management devops infrastructure linux
+Location: Bengaluru/Bangalore
+Experience: 2-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-cloudxlab-bengaluru-bangalore-2-to-3-yrs-jobid-jAqzv55vxTlzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+company_name: Cotocus
+skill set: docker devops perl python solution delivery ruby
+Location: Bengaluru/Bangalore
+Experience: 0-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-architect-cotocus-bengaluru-bangalore-0-to-3-yrs-jobid-tz7cqI71y1BzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+company_name: CRIMSONINTERACTIVEPVTLTD
+skill set: git infrastructure devops linux api gateway
+Location: Mumbai
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-crimson-interactive-pvt-ltd-mumbai-5-to-8-yrs-jobid-2o2Tabb__PLUS__3A9zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+company_name: DemandMatrix
+skill set: python machine learning docker security devops mongodb
+Location: Pune
+Experience: 4-7Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/senior-devops-demandmatrix-pune-4-to-7-yrs-jobid-7a7Hb4dReSpzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+company_name: HeadhuntersincconsultancyPrivateLimited
+skill set: security devops linux mysql docker
+Location: Gurgaon
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-headhuntersinc-consultancy-private-limited-gurgaon-5-to-8-yrs-jobid-4H53M9qqk35zpSvf__PLUS__uAgZw==&bc=+&sequence=24
+company_name: HeadhuntersincconsultancyPrivateLimited
+skill set: docker security devops linux mysql
+Location: Gurgaon
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-headhuntersinc-consultancy-private-limited-gurgaon-5-to-8-yrs-jobid-UBGGmhoNCkxzpSvf__PLUS__uAgZw==&bc=+&sequence=25
+company_name: avenuespaymentsindiapvt.ltd
+skill set: git ubuntu devops infrastructure linux docker
+Location: Bengaluru/Bangalore
+Experience: 6-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-avenues-payments-india-pvt-ltd-bengaluru-bangalore-6-to-9-yrs-jobid-eSNOM24lSMpzpSvf__PLUS__uAgZw==&bc=+&sequence=1
+company_name: PNRSoftwareSolutionsPrivateLimited
+skill set: github storage docker git devops linux shell scripting
+Location: Bengaluru/Bangalore
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-pnr-software-solutions-private-limited-bengaluru-bangalore-3-to-6-yrs-jobid-T9zBJVX8csdzpSvf__PLUS__uAgZw==&bc=+&sequence=2
+company_name: ADROITLEARNINGANDMANPOWERPVTLTD
+skill set: cli orchestration perl scripting docker sql python scripting iam linux administration devops linux shell scripting
+Location: Hyderabad/Secunderabad,Pune,Bengaluru/Bangalore
+Experience: 4-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-adroit-learning-and-manpower-pvt-ltd-hyderabad-secunderabad-pune-bengaluru-bangalore-4-to-6-yrs-jobid-wXpx3J4sQ0VzpSvf__PLUS__uAgZw==&bc=+&sequence=3
+company_name: AreteCareers(OPC)PvtLtd
+skill set: building engineering monitoring pipeline
+Location: Bengaluru/Bangalore
+Experience: 4-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-arete-careers-opc-pvt-ltd-bengaluru-bangalore-4-to-10-yrs-jobid-N65H9EX0GB1zpSvf__PLUS__uAgZw==&bc=+&sequence=4
+company_name: Paytm
+skill set: cloud services ci / cd pipelines containerization ( docker ) scripting ( bash / python ) infrastructure automation devops maven brewing python scripting linux os
+Location: Bengaluru/Bangalore
+Experience: 3-5Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-bengaluru-bangalore-3-to-5-yrs-jobid-__SLASH__GqfmhOUVphzpSvf__PLUS__uAgZw==&bc=+&sequence=5
+company_name: Paytm
+skill set: aws kubernetes docker ansible puppet terraform linux os configuration shell scripting python brewing python scripting devops maven infrastructure
+Location: 
+Experience: 6-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/paytm-devops-lead-devops-paytm-6-to-10-yrs-jobid-V9rWJlu0LtJzpSvf__PLUS__uAgZw==&bc=+&sequence=6
+company_name: Paytm
+skill set: cloud services devops tools scripting languages ci / cd implementation infrastructure management maven docker brewing git python scripting linux os gradle
+Location: Noida/GreaterNoida
+Experience: 3-5Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-5-yrs-jobid-12HMSx00Zr1zpSvf__PLUS__uAgZw==&bc=+&sequence=7
+company_name: Paytm
+skill set: ci / cd pipeline management aws cloud experience scripting ( shell / bash / python ) containerization ( docker / kubernetes ) infrastructure automation ( ansible / terraform ) brewing python scripting devops linux os maven
+Location: Noida/GreaterNoida
+Experience: 6-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-paytm-noida-greater-noida-6-to-9-yrs-jobid-jv__SLASH__wLRcs5slzpSvf__PLUS__uAgZw==&bc=+&sequence=8
+company_name: Paytm
+skill set: immutable infrastructure knowledge cloud infrastructure proficiency ci / cd processes expertise automation tools experience docker & kubernetes familiarity brewing java devops linux python cloud services groovy
+Location: Noida/GreaterNoida
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-6-yrs-jobid-0HPJ2o3QUN9zpSvf__PLUS__uAgZw==&bc=+&sequence=9
+company_name: Paytm
+skill set: ci / cd tools cloud experience linux os configuration scripting languages automation tools expertise docker brewing git python scripting devops maven gradle infrastructure
+Location: Noida/GreaterNoida
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-senior-devops-engineer-paytm-noida-greater-noida-3-to-6-yrs-jobid-mfZrdC73frhzpSvf__PLUS__uAgZw==&bc=+&sequence=10
+company_name: Paytm
+skill set: aws devops management containerization with docker kubernetes implementation infrastructure as code team leadership & collaboration shell scripting cache solution delivery nosql fundamentals security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-9Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-392-paytm-noida-greater-noida-5-to-9-yrs-jobid-qKY4tgTqQ__SLASH__lzpSvf__PLUS__uAgZw==&bc=+&sequence=11
+company_name: Paytm
+skill set: aws cloud management devops automation kubernetes expertise containerization ( docker ) infrastructure as code shell scripting cache solution delivery nosql fundamentals security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-391-paytm-noida-greater-noida-5-to-8-yrs-jobid-WBhERz__SLASH__RQTJzpSvf__PLUS__uAgZw==&bc=+&sequence=12
+company_name: Paytm
+skill set: aws devops leadership cloud architecture design automation and scripting kubernetes management infrastructure as code shell scripting cache solution delivery nosql fundamentals docker security brewing git iam linux solution architect operating system team player
+Location: Noida/GreaterNoida
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-lead-devops-476-paytm-noida-greater-noida-5-to-8-yrs-jobid-RCCgl0VRXz1zpSvf__PLUS__uAgZw==&bc=+&sequence=13
+company_name: SacharGamingPvt.Ltd.
+skill set: python css git devops
+Location: Mumbai
+Experience: 1-4Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-sachar-gaming-pvt-ltd-mumbai-1-to-4-yrs-jobid-X__SLASH__azYT5SBtZzpSvf__PLUS__uAgZw==&bc=+&sequence=14
+company_name: TechasoftPvtLtd
+skill set: python docker devops debugging
+Location: Bengaluru/Bangalore
+Experience: 3-6Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-techasoft-pvt-ltd-bengaluru-bangalore-3-to-6-yrs-jobid-0t7__SLASH__Vm1skx1zpSvf__PLUS__uAgZw==&bc=+&sequence=15
+company_name: spiderfocussolutions
+skill set: Jenkins Software Engineers DevOps
+Location: Bengaluru/Bangalore
+Experience: 5-10Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-spiderfocus-solutions-bengaluru-bangalore-5-to-10-yrs-jobid-c6N2iUm4Z3VzpSvf__PLUS__uAgZw==&bc=+&sequence=16
+company_name: CONNECTING2WORK
+skill set: DevOps GitLab Arti factory Jenkins
+Location: Cochin/Kochi/Ernakulam
+Experience: 0-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-developer-connecting-2-work-cochin-kochi-ernakulam-0-to-3-yrs-jobid-FK344lU1IkJzpSvf__PLUS__uAgZw==&bc=+&sequence=17
+company_name: EHookSystems
+skill set: python svn git devops clearcase
+Location: Delhi
+Experience: 2-7Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-e-hook-systems-delhi-2-to-7-yrs-jobid-kkqm5qAEqMxzpSvf__PLUS__uAgZw==&bc=+&sequence=18
+company_name: hashrootlimited
+skill set: python maven ruby docker devops linux openstack
+Location: Cochin/Kochi/Ernakulam
+Experience: 1-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-hashroot-limited-cochin-kochi-ernakulam-1-to-8-yrs-jobid-atqVqTYJikpzpSvf__PLUS__uAgZw==&bc=+&sequence=19
+company_name: cloudxlab
+skill set: windows security delivery management devops infrastructure linux
+Location: Bengaluru/Bangalore
+Experience: 2-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-cloudxlab-bengaluru-bangalore-2-to-3-yrs-jobid-jAqzv55vxTlzpSvf__PLUS__uAgZw==&bc=+&sequence=20
+company_name: Cotocus
+skill set: docker devops perl python solution delivery ruby
+Location: Bengaluru/Bangalore
+Experience: 0-3Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-architect-cotocus-bengaluru-bangalore-0-to-3-yrs-jobid-tz7cqI71y1BzpSvf__PLUS__uAgZw==&bc=+&sequence=21
+company_name: CRIMSONINTERACTIVEPVTLTD
+skill set: git infrastructure devops linux api gateway
+Location: Mumbai
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-crimson-interactive-pvt-ltd-mumbai-5-to-8-yrs-jobid-2o2Tabb__PLUS__3A9zpSvf__PLUS__uAgZw==&bc=+&sequence=22
+company_name: DemandMatrix
+skill set: python machine learning docker security devops mongodb
+Location: Pune
+Experience: 4-7Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/senior-devops-demandmatrix-pune-4-to-7-yrs-jobid-7a7Hb4dReSpzpSvf__PLUS__uAgZw==&bc=+&sequence=23
+company_name: HeadhuntersincconsultancyPrivateLimited
+skill set: security devops linux mysql docker
+Location: Gurgaon
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-headhuntersinc-consultancy-private-limited-gurgaon-5-to-8-yrs-jobid-4H53M9qqk35zpSvf__PLUS__uAgZw==&bc=+&sequence=24
+company_name: HeadhuntersincconsultancyPrivateLimited
+skill set: docker security devops linux mysql
+Location: Gurgaon
+Experience: 5-8Years
+Salary:  AsperIndustryStandards
+MoreInfo: https://m.timesjobs.com/mobile/job-detail/devops-engineer-headhuntersinc-consultancy-private-limited-gurgaon-5-to-8-yrs-jobid-UBGGmhoNCkxzpSvf__PLUS__uAgZw==&bc=+&sequence=25
