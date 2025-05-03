@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Scraping') {
             steps {
-                sh 'python comic.py'
+                sh 'python3 comic.py'
             }
         }
     }
